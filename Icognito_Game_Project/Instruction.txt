@@ -1,0 +1,12 @@
+Incognito, the game
+
+Controls:
+* Use left/right arrow to move
+* Up arrow to jump
+* Down arrow to turn invisible
+
+Mechanics:
+* After cloak runs out, you lose
+	* Cloak can be regained by picking up packs that are spread throughout the level
+* If you are spotted by an enemy, you lose
+* When you turn invisible, you can see the enemies sightline
